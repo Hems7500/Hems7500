@@ -1,7 +1,15 @@
 ### Hi there My Name is Himanshu Choudhary👋
 Currently, I'm Working with Birlasoft Limited. Prior to this, I was working as a Cloud Support Sr. Engineer with Mavenwave Partners.
 
-**Hems7500/Hems7500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Certifications
+
+[Himanshu Choudhary.pdf](https://github.com/Hems7500/Himanshu-Introduction/files/8747209/Himanshu.Choudhary.pdf)
+
+★ Google Cloud Certified- Professional Cloud Architect
+★ Google Cloud Certified- Professional Collaboration Engineer 
+★ Google Cloud Certified- Associate Cloud Engineer
+★ Azure Fundamental AZ-900
 
 Here are some ideas to get you started:
 
